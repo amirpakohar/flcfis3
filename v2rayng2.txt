@@ -1,0 +1,1 @@
+vless://c19ef895-7a87-4e16-9d09-74cccbf7ca5b@mci.ircf.space:2083?encryption=none&security=tls&sni=vip85.gvgqw12.tk&type=ws&host=vip85.gvgqw12.tk&path=%40FLCFiS#%40FLCFiS-fwq6yt
